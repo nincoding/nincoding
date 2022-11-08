@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=red&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
 <h3 align="center">I'm learning about frontend developer's skills in...</h3>
 <br>
 <img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
