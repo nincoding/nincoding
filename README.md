@@ -1,26 +1,7 @@
-<!--
-**nincoding/nincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=red&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
 <h3 align="center">I'm learning about frontend developer's skills in...</h3>
 <br>
 <img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
-
-<!--<h3 align="left">Connect with me:</h3>-->
-<p align="left">
-</p>
-
 
 <h3 align="left">▼ Languages</h3>
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
