@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
 <h3 align="center">I'm learning about frontend developer's skills in...</h3>
 <br>
-<img align="right" alt="profile" width="350" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
+<img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
@@ -46,3 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
  </p>
+
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nincoding)](https://github.com/nincoding/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nincoding)](https://github.com/nincoding/github-readme-stats)
