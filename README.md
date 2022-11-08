@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
+<p align="center"><a href="https://velog.io/@ninto_2"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="https://fatholic5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
 <h3 align="center">I'm learning about frontend developer's skills in...</h3>
 <br>
 <img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
@@ -18,7 +20,8 @@
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+ </p>
 <h3 align="left">▼ Using Design Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
