@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Hi%20there👋!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Suji-Han👩‍💻's%20GitHub%20Profile%20&descAlignY=51&descAlign=62&fontColor=black)
 <p align="center"><a href="https://velog.io/@ninto_2" title="블로그 이동"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="mailto:fatholic5@gmail.com" title="fatholic5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 <h3 align="center">I'm learning about frontend developer's skills in...</h3>
