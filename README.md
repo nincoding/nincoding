@@ -31,6 +31,3 @@
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
  </p>
 
-***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nincoding)](https://github.com/nincoding/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nincoding)](https://github.com/nincoding/github-readme-stats)
