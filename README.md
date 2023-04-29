@@ -26,7 +26,7 @@
 
 ### ✏️ BOJ
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fatholic5)](https://solved.ac/fatholic5)<img align="right" alt="profile" width="350" src="https://user-images.githubusercontent.com/112839119/200595529-5ad79731-1eed-42a3-8f95-af2c449c6c78.jpg">
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fatholic5)](https://solved.ac/fatholic5)
 
 ### 🌱 Stats
 
