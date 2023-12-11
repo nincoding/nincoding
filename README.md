@@ -5,9 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8B8B8FF&background=FFFFFF00&width=435&lines=The+joy+of+immersing+in+development;"개발에+몰입하는+즐거움에+빠져있습니다.")](https://git.io/typing-svg)
 
 👩‍💻 **Frontend Developer** <br>
-👩‍🎓 Educated: [SEB_FE_43_codestates](https://github.com/codestates-seb) [2022.12.15-2023.06.08] 
 <br>
-
 ✨ *For More Info...* **[WEBSITE]()** | **[BLOG](https://velog.io/@ninto_2)** | **[RESUME]()** 
 
 <br>
